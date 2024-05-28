@@ -2,6 +2,7 @@
 
 <!--
 **CogentMentat/CogentMentat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Heyo, I am a PhD at NYU Abu Dhabi!
 
